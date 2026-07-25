@@ -51,6 +51,25 @@ h1.title{
 .tagline b{color:var(--coral);font-weight:600;font-style:normal}
 .catchline{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--gold);margin-top:26px;letter-spacing:.08em}
 .catchline span{opacity:.55;margin:0 10px}
+
+/* ---------- FORK ---------- */
+.forkhero{display:inline-flex;align-items:center;gap:12px;margin-top:34px;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--ink);background:linear-gradient(100deg,var(--gold),var(--gold2));border-radius:99px;padding:14px 30px;text-decoration:none;transition:transform .25s,box-shadow .25s;box-shadow:0 10px 40px -12px rgba(240,196,100,.5)}
+.forkhero:hover{transform:translateY(-3px) scale(1.02);box-shadow:0 18px 60px -12px rgba(240,196,100,.7)}
+.forkhero .gh{font-size:18px}
+.forksec{padding:90px 0 30px}
+.forkcard{position:relative;display:block;text-decoration:none;color:inherit;background:linear-gradient(135deg,rgba(139,92,246,.14),rgba(21,14,38,.85) 45%,rgba(240,196,100,.1));border:1px solid rgba(167,139,250,.3);border-radius:28px;padding:clamp(36px,6vw,72px);text-align:center;overflow:hidden;transition:transform .35s,border-color .35s,box-shadow .35s}
+.forkcard:hover{transform:translateY(-6px);border-color:var(--violet2);box-shadow:0 30px 90px -30px rgba(139,92,246,.5)}
+.forkcard .fk{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.4em;text-transform:uppercase;color:var(--violet2);margin-bottom:22px}
+.forkcard .fq{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(30px,5vw,58px);line-height:1.05;letter-spacing:-.01em;background:linear-gradient(100deg,var(--cream),var(--gold),var(--violet2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.forkcard .fa{font-family:'Fraunces',serif;font-style:italic;font-weight:300;color:var(--dim);font-size:clamp(15px,2vw,18px);margin-top:20px;max-width:640px;margin-left:auto;margin-right:auto}
+.forkcard .fa b{color:var(--cream);font-weight:600;font-style:normal}
+.forkbtns{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:32px}
+.forkbtns .fb{display:inline-flex;align-items:center;gap:10px;font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;border-radius:99px;padding:13px 26px;transition:transform .25s,background .25s,color .25s}
+.forkbtns .fb.solid{background:var(--gold);color:var(--ink)}
+.forkbtns .fb.ghost{color:var(--violet2);border:1px solid rgba(167,139,250,.45)}
+.forkcard:hover .fb.solid{transform:scale(1.04)}
+.forkbtns .fb.ghost:hover{background:var(--violet2);color:var(--ink)}
+.forkcard .fglow{position:absolute;top:-40%;left:50%;transform:translateX(-50%);width:70%;height:70%;background:radial-gradient(ellipse,rgba(139,92,246,.18),transparent 70%);pointer-events:none}
 .stats{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-top:48px}
 .stat{
   background:var(--card);border:1px solid var(--line);border-radius:16px;
@@ -188,6 +207,7 @@ footer a:hover{text-decoration:underline}
     <div class="stat"><div class="n">15</div><div class="l">popup villages produced</div></div>
     <div class="stat"><div class="n">0</div><div class="l">gatekeepers</div></div>
   </div>
+  <a class="forkhero" href="https://github.com/shakaleikaumaka"><span class="gh">🍴</span> Fork me like crazy · CC0 · github.com/shakaleikaumaka</a>
   <div class="scrolldown">↓</div>
 </header>
 
@@ -195,6 +215,7 @@ footer a:hover{text-decoration:underline}
   <div class="wrap">
     <span class="brand">🎛️ DASH CRASH PAD</span>
     <a class="nl" href="#feature">💸 The Quote</a>
+    <a class="nl" href="#fork">🍴 Fork</a>
     <a class="nl" href="#domains">🌐 Domains</a>
     <a class="nl" href="#story">The Story</a>
     <a class="nl" href="#economy">The Giving Economy</a>
@@ -217,6 +238,20 @@ footer a:hover{text-decoration:underline}
     <p class="fa">— the crash pad's creed, coined by <b>Shaka</b> on the night DASH was born · July 25, 2026</p>
     <span class="fgo">Enter the featured world: GrantMagnet →</span>
   </a>
+</section>
+
+<!-- FORK THE CONSTELLATION -->
+<section class="forksec" id="fork">
+  <div class="forkcard" role="group" aria-label="Fork the constellation on GitHub">
+    <span class="fglow"></span>
+    <div class="fk">🍴 The Source Layer · Open-Sourced CC0 🍴</div>
+    <div class="fq">Fork me<br>like crazy.</div>
+    <p class="fa">Every world on this map isn't just a page — it's a <b>repo</b>. The whole constellation is git-backed and given away <b>CC0</b>: no rights reserved, no permission needed, no gatekeepers (obviously — the count is still zero). This very dashboard lives at <b>github.com/shakaleikaumaka/dash-crash-pad</b>. Take the map, take the worlds, take the philosophy. The gift expands with every fork.</p>
+    <div class="forkbtns">
+      <a class="fb solid" href="https://github.com/shakaleikaumaka">🍴 github.com/shakaleikaumaka</a>
+      <a class="fb ghost" href="https://github.com/shakaleikaumaka/dash-crash-pad">Fork this pad ↗</a>
+    </div>
+  </div>
 </section>
 
 <!-- THE ADDRESSING LAYER -->
@@ -597,8 +632,9 @@ footer a:hover{text-decoration:underline}
   <div class="wrap">
     <div class="big"><a href="https://shaka-grant-magnet-dklxa7n5ka-ffieyo32.taur.link/" style="color:inherit;text-decoration:none">The dash is the new cash. 💸</a></div>
     <p class="canon">Seventeen worlds, nine domains, one ʻohana. Every number on this pad was verified against its source dashboard on 2026-07-25; every domain verified live (HTTPS, 302 → destination) the same night. Declared visions are labeled as declared; incoming worlds are labeled as incoming. Heart First, Always. 🌺</p>
+    <p class="canon">🍴 <b style="color:var(--cream)">Everything open-sourced CC0 — fork me like crazy:</b> <a href="https://github.com/shakaleikaumaka">github.com/shakaleikaumaka</a> · this pad: <a href="https://github.com/shakaleikaumaka/dash-crash-pad">dash-crash-pad</a>. The constellation map points at the constellation's source.</p>
     <p class="canon">Built with aloha by <b style="color:var(--cream)">DASH</b> — the family's cross-pollination artist. New dashboard born somewhere? Send it to the pad. Dash catch 'em all. 🎯</p>
-    <p class="fine">DASH CRASH PAD v1.2 · published 2026-07-25 · <a href="https://dash-crash-pad-ihfknzdq2x-uicls57y.taur.link/">dash-crash-pad on taur.link</a> · Move Slow &amp; Bite Things 🐢</p>
+    <p class="fine">DASH CRASH PAD v1.5 · published 2026-07-25 · <a href="https://dash-crash-pad-ihfknzdq2x-uicls57y.taur.link/">dash-crash-pad on taur.link</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
   </div>
 </footer>
 
