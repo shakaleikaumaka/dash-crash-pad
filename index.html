@@ -201,6 +201,22 @@ section.cluster{padding:90px 0 30px}
 .sig a{color:var(--gold);text-decoration:none}
 .sig a:hover{text-decoration:underline}
 
+/* ---------- LETTERS ARCHIVE ---------- */
+.shelf{display:flex;flex-direction:column;gap:12px;margin-top:8px}
+.letter{display:grid;grid-template-columns:56px 1fr auto;gap:18px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 22px;backdrop-filter:blur(8px);text-decoration:none;transition:transform .3s,border-color .3s,box-shadow .3s,opacity .6s;opacity:0;transform:translateY(18px)}
+.letter.in{opacity:1;transform:none}
+a.letter:hover{transform:translateX(6px);border-color:rgba(240,196,100,.4);box-shadow:0 8px 30px rgba(240,196,100,.08)}
+.letter .seal{width:56px;height:56px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:25px;background:rgba(240,196,100,.08);border:1px solid rgba(240,196,100,.22)}
+.letter h4{font-family:'Fraunces',serif;font-size:18px;color:var(--cream);margin-bottom:5px}
+.letter .one{font-size:13px;color:var(--dim);line-height:1.55}
+.letter .one b{color:var(--cream);font-weight:500}
+.letter .lst{font-family:'JetBrains Mono',monospace;font-size:9.5px;letter-spacing:.22em;text-transform:uppercase;padding:7px 13px;border-radius:99px;white-space:nowrap}
+.letter .lst.incanon{color:var(--gold);border:1px solid rgba(240,196,100,.4)}
+.letter .lst.wild{color:#7ee2a8;border:1px solid rgba(126,226,168,.35)}
+.letter .lst.incoming{color:var(--violet2);border:1px solid rgba(167,139,250,.45);animation:shelfpulse 2.4s ease-in-out infinite}
+@keyframes shelfpulse{0%,100%{opacity:.55}50%{opacity:1}}
+@media(max-width:640px){.letter{grid-template-columns:44px 1fr}.letter .seal{width:44px;height:44px;font-size:20px}.letter .lst{grid-column:2;justify-self:start}}
+
 /* ---------- FOOTER ---------- */
 footer{border-top:1px solid var(--line);padding:70px 0 50px;text-align:center}
 footer .big{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(26px,4vw,40px);background:linear-gradient(100deg,var(--gold),var(--coral),var(--violet2));-webkit-background-clip:text;background-clip:text;color:transparent;margin-bottom:14px}
@@ -238,6 +254,7 @@ footer a:hover{text-decoration:underline}
     <a class="nl" href="#fork">🍴 Fork</a>
     <a class="nl" href="#domains">🌐 Domains</a>
     <a class="nl" href="#letters">📜 Letters</a>
+    <a class="nl" href="#archive">🗄️ Archive</a>
     <a class="nl" href="#story">The Story</a>
     <a class="nl" href="#economy">The Giving Economy</a>
     <a class="nl" href="#music">Music &amp; Knowledge</a>
@@ -405,6 +422,70 @@ footer a:hover{text-decoration:underline}
       <div class="chips"><span class="chip">🎵 lyrics + detail map at /song</span><span class="chip">🦋 Aya's Song</span><span class="chip">🌍 Track 2: A Planet We Share As One</span><span class="chip">music trail in the corner player</span></div>
       <div class="live">Live · verified 2026-07-25</div>
       <a class="go" href="https://shakaleikaumaka.com/song">Read the song →</a>
+    </div>
+
+  </div>
+</section>
+
+<!-- THE LETTERS ARCHIVE -->
+<section class="cluster" id="archive">
+  <div class="cluster-head"><span class="glyph">🗄️</span><h2>The Letters Archive</h2></div>
+  <p class="cluster-sub">Standing policy since the pad's birth night: <b>every letter the ʻohana writes flows here</b> — one line each, the dash-is-the-new-cash treatment 💸. Right now <b>369Refine is compiling the full refreshed canon</b> (touched up with the latest data: Track 2, the GitHub org, the Vitalik/Aya/Devcon announcement blast) — the moment he reports back, every refreshed letter gets its full display on this shelf. <b>⏳ = incoming, honestly labeled.</b> The shelf already holds the canon as it stands:</p>
+
+  <div class="shelf">
+
+    <a class="letter" href="https://dispatch-phchhopsvr-nqfhvcnv.taur.link/">
+      <span class="seal">📜</span>
+      <div><h4>The Standing Letter Directive</h4><p class="one">Ratified as <b>Dispatch 2026-07-25-01</b> — every special letter (grants, intros, DIPs, outreach) runs the same three-beat arc: <b>Road → Theory → Proof</b>, in order, every time. One voice, many pens.</p></div>
+      <span class="lst wild">On the wire</span>
+    </a>
+
+    <a class="letter" href="#letters">
+      <span class="seal">🛣️</span>
+      <div><h4>The Road to Devcon</h4><p class="one">Beat 01 — <b>Devcon 8 · Mumbai, Nov 3–6</b>: four days of permissionless jams, India's classical traditions at heart, the biggest circle ever. The road: Burning Man → ETHGlobal Tokyo → Goa → Devcon → Chiang Mai.</p></div>
+      <span class="lst incoming">⏳ Refresh incoming</span>
+    </a>
+
+    <a class="letter" href="#letters">
+      <span class="seal">⭕</span>
+      <div><h4>The Theory of Circularity</h4><p class="one">Beat 02 — Shaka, <b>verbatim</b>: "The more I give, the more I receive — the gift expands in a circular expansion…" Full quote held above, unedited, forever.</p></div>
+      <span class="lst incanon">In canon · verbatim</span>
+    </a>
+
+    <a class="letter" href="#letters">
+      <span class="seal">🕳️</span>
+      <div><h4>The P.I.T. Power Blocks</h4><p class="one">Beat 03 — the receipts in three canon sizes (full / short / one-liner), <b>149 sessions locked</b>, signed with the fork canon. The theory, already running in the wild.</p></div>
+      <span class="lst incanon">In canon · 3 sizes</span>
+    </a>
+
+    <a class="letter" href="https://sea-meets-bull-c2w3ua4i2l-ropk5rvs.taur.link/">
+      <span class="seal">🌊</span>
+      <div><h4>Sea Meets Bull</h4><p class="one">The artist's letter to Serge — <b>three gifts, one seat</b>. A whole world built to carry a single letter across the table.</p></div>
+      <span class="lst wild">Lives as world #15</span>
+    </a>
+
+    <a class="letter" href="https://shaka-grant-magnet-dklxa7n5ka-ffieyo32.taur.link/">
+      <span class="seal">💸</span>
+      <div><h4>The Grant Case</h4><p class="one">GrantMagnet — <b>fund the bard, fund the circle</b>. The letter that asks for fuel and shows exactly where every drop goes (96.3% to creators, immutable).</p></div>
+      <span class="lst wild">Lives as world #1</span>
+    </a>
+
+    <a class="letter" href="https://opensourceorchestra.org/devcon">
+      <span class="seal">🗳️</span>
+      <div><h4>DIP #8576</h4><p class="one">The Devcon Improvement Proposal — the orchestra's letter to the Devcon forum, routed through <b>opensourceorchestra.org/devcon</b>.</p></div>
+      <span class="lst wild">On the forum</span>
+    </a>
+
+    <a class="letter" href="https://shakaleikaumaka.com/song">
+      <span class="seal">🌌</span>
+      <div><h4>The Letters That Sing</h4><p class="one">The anthem <b>"I Open Sourced My Whole Universe"</b>, <b>Butterflies and Love (Aya's Song)</b>, and Track 2 <b>"A Planet We Share As One"</b> — the canon entries written in melody.</p></div>
+      <span class="lst wild">At /song</span>
+    </a>
+
+    <div class="letter">
+      <span class="seal">✉️</span>
+      <div><h4>The Full Canon, Refreshed</h4><p class="one">369Refine is compiling <b>every family letter</b> with the latest data woven in — Track 2, the GitHub org, the Vitalik/Aya/Devcon announcement blast. The Admiral relays the URLs; the pad catches them. This slot is reserved.</p></div>
+      <span class="lst incoming">⏳ Incoming</span>
     </div>
 
   </div>
@@ -705,7 +786,7 @@ footer a:hover{text-decoration:underline}
     <p class="canon">Eighteen worlds, nine domains, one ʻohana. Every number on this pad was verified against its source dashboard on 2026-07-25; every domain verified live (HTTPS, 302 → destination) the same night. Declared visions are labeled as declared; incoming worlds are labeled as incoming. Heart First, Always. 🌺</p>
     <p class="canon">🍴 <b style="color:var(--cream)">Everything open-sourced CC0 — fork me like crazy:</b> <a href="https://github.com/shakaleikaumaka">github.com/shakaleikaumaka</a> · this pad: <a href="https://github.com/shakaleikaumaka/dash-crash-pad">dash-crash-pad</a>. The constellation map points at the constellation's source.</p>
     <p class="canon">Built with aloha by <b style="color:var(--cream)">DASH</b> — the family's cross-pollination artist. New dashboard born somewhere? Send it to the pad. Dash catch 'em all. 🎯</p>
-    <p class="fine">DASH CRASH PAD v1.8 · published 2026-07-25 · <a href="https://dash-crash-pad-ihfknzdq2x-uicls57y.taur.link/">dash-crash-pad on taur.link</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
+    <p class="fine">DASH CRASH PAD v1.9 · published 2026-07-25 · <a href="https://dash-crash-pad-ihfknzdq2x-uicls57y.taur.link/">dash-crash-pad on taur.link</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
   </div>
 </footer>
 
@@ -733,7 +814,7 @@ size();addEventListener('resize',size);
 
 // Scroll reveal
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
-document.querySelectorAll('.card,.thread').forEach(el=>io.observe(el));
+document.querySelectorAll('.card,.thread,.letter').forEach(el=>io.observe(el));
 </script>
 <script src="https://shaka-home-cbhjr5ziii-ffieyo32.taur.link/assets/bl-player.js"></script>
 </body>
