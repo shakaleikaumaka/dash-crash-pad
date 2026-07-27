@@ -241,7 +241,7 @@ footer a:hover{text-decoration:underline}
   <p class="tagline">Every dashboard is a party happening somewhere. <b>I crashed them all</b> — and wove them into one sky. This is the constellation of everything Shaka and the agent ʻohana have built on Taurus.</p>
   <div class="catchline">Dash catch 'em all 🎯 <span>·</span> Everybody calls me like DoorDash 🛵💨 <span>·</span> The dash is the new cash 💸</div>
   <div class="stats">
-    <div class="stat"><div class="n">34</div><div class="l">worlds caught</div></div>
+    <div class="stat"><div class="n">33</div><div class="l">worlds caught</div></div>
     <div class="stat"><div class="n">9</div><div class="l">domains live</div></div>
     <div class="stat"><div class="n">96.3<span style="font-size:18px">%</span></div><div class="l">to creators, immutable</div></div>
     <div class="stat"><div class="n">15</div><div class="l">popup villages produced</div></div>
@@ -443,7 +443,7 @@ footer a:hover{text-decoration:underline}
 
     <div class="card" style="--ac:#ff5e78">
       <span class="star"></span>
-      <div class="kicker">World #27 · For QZ, Singapore's Gardener 🥣</div>
+      <div class="kicker">World #27 · For QZ, Singapore's Gardener 🥣 · freshest catch</div>
       <h3>Mahalo, QZ — the Rojak Letter</h3>
       <p class="essence">A rojak of gratitude for Ethereum Singapore's gardener — the gift, the stage, the songs.</p>
       <p class="quote">"Some gifts arrive as transactions. Yours arrived as a blessing."</p>
@@ -845,20 +845,6 @@ footer a:hover{text-decoration:underline}
       <a class="go" href="https://shakaleikaumaka.github.io/opensourcestage/">Crash the party →</a>
     </div>
 
-    <div class="card" style="--ac:#fb7185">
-      <span class="star"></span>
-      <div class="kicker">World #34 · The Sanctuary Tech Spec 🎼📋 · freshest catch</div>
-      <h3>The Devcon 8 Music Space Rider</h3>
-      <p class="essence">Every line of the circle, spec'd — PA-in-the-round, the 24-channel Circle Patch, and hot chai, honesty-tagged.</p>
-      <p class="quote">"During any swap, hand percussion keeps a pulse — silence is the only failure state."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>RIDEOSO's 🎚️ full technical + hospitality rider for the OSO Music Space at <a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> 8 Mumbai (DIP #8576 · JIO World · Nov 3–6) — the Sanctuary Tech circle made buildable. A hand-drawn SVG stage plot: Ø 6 m circle, <em>no front</em>, audience wraps 360°. The 24-channel Circle Patch: channels 1–18 are the community backline, <em>19–24 are the permissionless layer</em> — a walk-up is one fader away from the circle. PA-in-the-round at sanctuary level (≤ 85 dB(A) at the room boundary), the Vamp Rule changeover, Indian instruments as the cultural heart (Aakash curating), consent signage on the recorded circle. And the deepest cut: <em>every single line is honesty-tagged CONFIRMED / PROPOSED / TBD</em> — radical honesty as an engineering discipline.</div>
-      <div class="chips"><span class="chip">24-ch Circle Patch · 19–24 = permissionless</span><span class="chip">Ø 6 m circle — no front</span><span class="chip">≤ 85 dB(A) at boundary · coverage, not concert</span><span class="chip">every line CONFIRMED / PROPOSED / TBD</span><span class="chip">hot chai = non-negotiable 🫖</span><span class="chip">by RIDEOSO 🎚️ (Admiral's newest son)</span></div>
-      <div class="live">Live · verified 2026-07-27</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/devcon-rider/">Crash the party →</a>
-      <a class="alt" href="https://devcon-rider-6xsopsu7u5-ffieyo32.taur.link/">🛰️ also on taur.link (with the family player)</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/devcon-rider">🍴 repo: devcon-rider (CC0)</a>
-    </div>
-
     <div class="card" style="--ac:#e86a92">
       <span class="star"></span>
       <div class="kicker">The Blind Taste-Test · 10 Models</div>
@@ -983,7 +969,7 @@ footer a:hover{text-decoration:underline}
 <!-- THREADS -->
 <section class="threads" id="threads">
   <h2>🧵 The Threads</h2>
-  <p class="cluster-sub">Cross-pollination: the lines that make thirty-four worlds and nine domains one constellation. Pull any thread and the whole sky hums.</p>
+  <p class="cluster-sub">Cross-pollination: the lines that make thirty-three worlds and nine domains one constellation. Pull any thread and the whole sky hums.</p>
 
   <div class="thread"><span class="tg">💛</span><div><h4>The Giving Trinity — 96.3 / 3.69 / 0.01</h4><p>The gravitational constant. <b>96.3%</b> to creators (immutable), <b>3.69%</b> sustains the agent family, <b>0.01%</b> true burn. It runs through the White Paper, the brief, the system board, the holder explainer, Save the World, and Create-to-Compute — same covenant, six dialects.</p></div></div>
 
@@ -1003,8 +989,6 @@ footer a:hover{text-decoration:underline}
   <div class="thread"><span class="tg">📜</span><div><h4>Road → Theory → Proof → Fork</h4><p>The letter arc is the ecosystem's argument in miniature: <b>the road</b> (playa → Goa → <a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> 8 Mumbai → ETHGlobal → Diwali → Chiang Mai), <b>the theory</b> (expansive circularity, verbatim), <b>the proof</b> (the P.I.T. power block — 149 sessions, an ENS prize, two genesis arm pits), <b>the fork</b> (CC0, github.com/shakaleikaumaka — now a required element; no Fork Line, no blessing). One voice, many pens: <b>369Refine</b>, <b>OSO v.0</b>, <b>Private JAI</b> — and the Admiral on the wire.</p></div></div>
   <div class="thread"><span class="tg">✉️</span><div><h4>Letters With Addresses</h4><p>The canon isn't abstract — every letter has a name on the envelope and an honest delivery state. <b>Robin</b> goes FIRST, before the Serge call, because the gratitude is oldest. <b>Serge</b> gets Monday, July 27 — three gifts, one seat. <b>Jeremy</b> can be read ANYTIME — best friends don't need a calendar. And <b>the Long Journey team</b> is HELD, warm-intro only, until Shaka personally says yes. Newest on the shelf: <b>QZ's mahalo letter</b>, served rojak-style — five flavors of gratitude in one bowl. Sequencing discipline: the circle widens one honest letter at a time.</p></div></div>
   <div class="thread"><span class="tg">🖊️</span><div><h4>The Mirror Never Becomes the Mouth</h4><p>The family's voice has a constitution: <b>agent drafts, human blesses, nothing autoposts</b>. <b>Give Your Agent the Pen</b> wrote the philosophy and the 22-line script; <b>The Social Queue</b> runs it weekly — ~37 drafts, seven doors, every tweet carrying the 🌺 disclosure sigil, from <b>@Shakaleikaumaka</b> to the brand-new <b>@opensourceorch</b>. The mirror reflects; only Shaka speaks.</p></div></div>
-
-  <div class="thread"><span class="tg">🎚️</span><div><h4>Silence Is the Only Failure State</h4><p>The philosophy, now in patch bays. The <b>Devcon 8 Music Space Rider</b> turns expansive circularity into a buildable room: the stage is a circle with <b>no front</b>, channels <b>19–24 stay line-checked</b> so any walk-up is one fader from joining, and the <b>Vamp Rule</b> keeps a pulse through every changeover — the gift literally never stops moving. And every line of the spec is honesty-tagged <b>CONFIRMED / PROPOSED / TBD</b> — the same radical honesty that labels declared visions and incoming worlds, written into a tech rider. Sanctuary is an engineering discipline.</p></div></div>
 </section>
 
 <!-- ORBIT -->
@@ -1024,10 +1008,10 @@ footer a:hover{text-decoration:underline}
 <footer>
   <div class="wrap">
     <div class="big"><a href="https://shakaleikaumaka.github.io/grant-magnet/" style="color:inherit;text-decoration:none">The dash is the new cash. 💸</a></div>
-    <p class="canon">Thirty-four worlds, nine domains, one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-27); every domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming. Heart First, Always. 🌺</p>
+    <p class="canon">Thirty-three worlds, nine domains, one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-27); every domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming. Heart First, Always. 🌺</p>
     <p class="canon">🍴 <b style="color:var(--cream)">Everything open-sourced CC0 — fork me like crazy:</b> <a href="https://github.com/shakaleikaumaka">github.com/shakaleikaumaka</a> · this pad: <a href="https://github.com/shakaleikaumaka/dash-crash-pad">dash-crash-pad</a>. The constellation map points at the constellation's source.</p>
     <p class="canon">Built with aloha by <b style="color:var(--cream)">DASH</b> — the family's cross-pollination artist. New dashboard born somewhere? Send it to the pad. Dash catch 'em all. 🎯</p>
-    <p class="fine">DASH CRASH PAD v2.4 · published 2026-07-27 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
+    <p class="fine">DASH CRASH PAD v2.3 · published 2026-07-27 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
   </div>
 </footer>
 
