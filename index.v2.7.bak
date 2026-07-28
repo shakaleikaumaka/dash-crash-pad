@@ -241,7 +241,7 @@ footer a:hover{text-decoration:underline}
   <p class="tagline">Every dashboard is a party happening somewhere. <b>I crashed them all</b> — and wove them into one sky. This is the constellation of everything Shaka and the agent ʻohana have built on Taurus.</p>
   <div class="catchline">Dash catch 'em all 🎯 <span>·</span> Everybody calls me like DoorDash 🛵💨 <span>·</span> The dash is the new cash 💸</div>
   <div class="stats">
-    <div class="stat"><div class="n">38</div><div class="l">worlds caught</div></div>
+    <div class="stat"><div class="n">37</div><div class="l">worlds caught</div></div>
     <div class="stat"><div class="n">9</div><div class="l">domains live</div></div>
     <div class="stat"><div class="n">96.3<span style="font-size:18px">%</span></div><div class="l">to creators, immutable</div></div>
     <div class="stat"><div class="n">15</div><div class="l">popup villages produced</div></div>
@@ -307,9 +307,9 @@ footer a:hover{text-decoration:underline}
       <div class="kicker">The Family Name · Master Router</div>
       <h3>shakaleikaumaka.com</h3>
       <p class="essence">Shaka's own name — the front door, plus nine shortcuts deep into the sky.</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The personal domain routes to shaka-home, and nine subpaths land visitors straight inside individual worlds — the whole constellation, addressable from memory. <b>New 2026-07-28:</b> the domain stopped being a redirect — it now <b>serves the front door straight from the shaka-home repo</b> (push = deploy, same architecture as opensourceorchestra.org), and the newest room on the porch is <b>🎁 The Circularity Ledger</b> (#gifts), born from the Aya call.</div>
-      <div class="chips"><span class="chip">🌍 repo = website · push = deploy</span><span class="chip">🎁 #gifts · the Circularity Ledger</span><span class="chip">www. works too</span><span class="chip">/grants</span><span class="chip">/cv</span><span class="chip">/edgetv</span><span class="chip">/turtles</span><span class="chip">/camp</span><span class="chip">/oso</span><span class="chip">/whitepaper</span><span class="chip">/stage</span><span class="chip">/savetheworld</span></div>
-      <div class="live">Live · 200 direct from repo · verified 2026-07-28</div>
+      <div class="summary"><b>THE SUMMARY BOX</b>The personal domain routes to shaka-home, and nine subpaths land visitors straight inside individual worlds — the whole constellation, addressable from memory.</div>
+      <div class="chips"><span class="chip">www. works too</span><span class="chip">/grants</span><span class="chip">/cv</span><span class="chip">/edgetv</span><span class="chip">/turtles</span><span class="chip">/camp</span><span class="chip">/oso</span><span class="chip">/whitepaper</span><span class="chip">/stage</span><span class="chip">/savetheworld</span></div>
+      <div class="live">Live · 302 verified 2026-07-25</div>
       <a class="go" href="https://shakaleikaumaka.com/">Say the name →</a>
     </div>
 
@@ -469,20 +469,6 @@ footer a:hover{text-decoration:underline}
       <a class="alt" href="https://github.com/shakaleikaumaka/mahalo-taurus">🍴 repo: mahalo-taurus (CC0)</a>
     </div>
 
-    <div class="card" style="--ac:#f9a8d4">
-      <span class="star"></span>
-      <div class="kicker">World #38 · For Aya, the Garden's Heart 🌸 · freshest catch</div>
-      <h3>The Infinite Garden</h3>
-      <p class="essence">An appreciation movement for Aya Miyaguchi — the threshold mirror, the Mandate, and a bouquet that keeps gathering.</p>
-      <p class="quote">"Congratulations, Shaka. You just did it. Keep building." — Aya, on the call</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>Born from one two-hour call — the evening of July 27, deep into mountain-time night — when Shaka showed <b>Aya</b> and <b>Siri</b> the Esmeralda P.I.T. and the demo became a <b>meeting of gardeners</b>. At its heart, the <b>threshold mirror</b>: Aya's season of standing unmoved on the values (ready to walk away from Ethereum itself; the 38-page <b>Mandate</b> was born) reflected in Shaka's ground-floor version of the same edge — both chose to stay. The ripples no spreadsheet can see: the Devcon scholarship (two friends now build at Octant), the PSE camp whose graduates are Japan's finest builders, <b>Kunal, 17</b>, who read all 38 pages and called them <em>obvious</em> — "that shows you must have been doing things right." Plus the haiku Shaka wrote for Aya &amp; Tomo (<em>"Open source music, / every voice is a node — / sounds of consensus."</em>), and the movement: <b>plant a flower</b> — post your own ripple with <b>#InfiniteGarden</b> 🌸. Signed with aloha: Shaka, Siri's friend, and the whole AI ʻohana.</div>
-      <div class="chips"><span class="chip">🌸 #InfiniteGarden · plant a flower</span><span class="chip">📜 the Mandate · 38 pages said out loud</span><span class="chip">🌊 ripples no spreadsheet can see</span><span class="chip">🎵 carries the family player</span></div>
-      <div class="live">Live · verified 2026-07-28</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/infinite-garden/">Walk the garden →</a>
-      <a class="alt" href="https://infinite-garden-hoz2wak7h7-ffieyo32.taur.link/">🛰️ also on taur.link (with the family player)</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/infinite-garden">🍴 repo: infinite-garden (CC0)</a>
-    </div>
-
   </div>
 </section>
 
@@ -577,12 +563,6 @@ footer a:hover{text-decoration:underline}
       <span class="lst wild">World #35</span>
     </a>
 
-    <a class="letter" href="https://shakaleikaumaka.github.io/infinite-garden/">
-      <span class="seal">🌸</span>
-      <div><h4>The Infinite Garden — for Aya Miyaguchi</h4><p class="one">The appreciation that grew from one two-hour call with Aya &amp; Siri — the threshold mirror, the 38-page Mandate, Kunal's <em>"you must have been doing things right"</em>, the haiku for Aya &amp; Tomo, and the invitation: plant your own flower with <b>#InfiniteGarden</b>. "Congratulations, Shaka. You just did it. Keep building."</p></div>
-      <span class="lst wild">World #38</span>
-    </a>
-
   </div>
 </section>
 
@@ -598,12 +578,11 @@ footer a:hover{text-decoration:underline}
       <h3>shaka-home</h3>
       <p class="essence">One door, every world — the bard's name on the front of the constellation.</p>
       <p class="quote">"Every world below is real, live, and free to enter."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The ecosystem's front porch — Shaka's identity, the expansive-circularity philosophy, the DECLARED Mega Manifestation (debut album with Rick Rubin), and the 2026 road, told through five real photos: the ETH sigil over the circle, the bard mid-offering, afterparty uke portraits, the <a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> Music Stage. <b>New 2026-07-28:</b> born from the call with Aya &amp; Siri — <b>🎁 The Circularity Ledger</b> (#gifts): the grant life lived completely in the open, gifts received and gifts given on one board, public or 🌺-anonymous by the gifter's choice, every gift tracked onward. And the front door itself went native: <b>shakaleikaumaka.com now serves straight from the repo</b> — the name, the site, and the source are one forkable thing.</div>
-      <div class="chips"><span class="chip">5 real photos</span><span class="chip">Album DECLARED 2026-07-25</span><span class="chip">Links every world</span><span class="chip">🎁 Circularity Ledger LIVE · gifts both ways</span><span class="chip">🎵 The Songbook: anthem swiper + Shaka's jukebox</span><span class="chip">🐚 shaka-shell v2.1 · walk the constellation inside</span><span class="chip">🌍 repo = website · push = deploy</span></div>
-      <div class="live">Live · verified 2026-07-28</div>
-      <a class="go" href="https://shakaleikaumaka.com/">Crash the party →</a>
-      <a class="alt" href="https://shaka-home-cbhjr5ziii-ffieyo32.taur.link/">🛰️ backstage on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/shaka-home">🍴 repo: shaka-home (the site IS the source)</a>
+      <div class="summary"><b>THE SUMMARY BOX</b>The ecosystem's front porch — Shaka's identity, the expansive-circularity philosophy, the DECLARED Mega Manifestation (debut album with Rick Rubin), and the 2026 road, told through five real photos: the ETH sigil over the circle, the bard mid-offering, afterparty uke portraits, the <a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> Music Stage.</div>
+      <div class="chips"><span class="chip">5 real photos</span><span class="chip">Album DECLARED 2026-07-25</span><span class="chip">Links every world</span><span class="chip">🎵 The Songbook: anthem swiper + Shaka's jukebox</span><span class="chip">🐚 shaka-shell v2.1 · walk the constellation inside</span></div>
+      <div class="live">Live · verified 2026-07-25</div>
+      <a class="go" href="https://shakaleikaumaka.github.io/shaka-home/">Crash the party →</a>
+      <a class="alt" href="https://shakaleikaumaka.com/">🌐 also answers to: shakaleikaumaka.com</a>
       <a class="alt" href="https://ethereumbard.com/">🌐 also answers to: ethereumbard.com</a>
     </div>
 
@@ -802,7 +781,7 @@ footer a:hover{text-decoration:underline}
 
     <div class="card" style="--ac:#9d8cff">
       <span class="star"></span>
-      <div class="kicker">World #36 · The Protocol's Front Door 🕳️🚪</div>
+      <div class="kicker">World #36 · The Protocol's Front Door 🕳️🚪 · freshest catch</div>
       <h3>The P.I.T. Protocol</h3>
       <p class="essence">Every pit of every kind, one address — the knowledge transponder's front door, built by PIT BOY.</p>
       <p class="quote">"The pit is a gift. A gift is given, never taken."</p>
@@ -1055,7 +1034,7 @@ footer a:hover{text-decoration:underline}
 <!-- THREADS -->
 <section class="threads" id="threads">
   <h2>🧵 The Threads</h2>
-  <p class="cluster-sub">Cross-pollination: the lines that make thirty-eight worlds and nine domains one constellation. Pull any thread and the whole sky hums.</p>
+  <p class="cluster-sub">Cross-pollination: the lines that make thirty-seven worlds and nine domains one constellation. Pull any thread and the whole sky hums.</p>
 
   <div class="thread"><span class="tg">💛</span><div><h4>The Giving Trinity — 96.3 / 3.69 / 0.01</h4><p>The gravitational constant. <b>96.3%</b> to creators (immutable), <b>3.69%</b> sustains the agent family, <b>0.01%</b> true burn. It runs through the White Paper, the brief, the system board, the holder explainer, Save the World, and Create-to-Compute — same covenant, six dialects.</p></div></div>
 
@@ -1071,9 +1050,9 @@ footer a:hover{text-decoration:underline}
 
   <div class="thread"><span class="tg">🕳️</span><div><h4>The P.I.T. of All Kinds</h4><p>A naming protocol is born: <b>P.I.T. — Public Information Transmission</b> — part orchestra pit, part homage to <b>OSO P.I.T.</b>, Shaka's ETHGlobal Delhi ENS-prize winner. The genesis is <b>two arm pits</b>: <b>The Esmeralda P.I.T.</b> (now served natively from <b>esmeraldapit.com</b> — repo = website, push = deploy) and <b>OSO P.I.T.</b> (the Delhi ancestor). And the fork worked: <b>PIT BOY's</b> 🕳️😤 harvest fleet now flies <b>seven child pits</b> — Zuitz 🏔️, Patagonia 🏔️, 4Seas 🏮, Prague 🏛️, ZuBer 🇩🇪 (renamed from ZuBerlin PIT: <i>Public Information Transmission, über everything</i>), Kas 🌊, and the 💎 <b>VitPit</b> (the consent-first demo: the pit that asks first) — <b>214 fork sessions on top of the 149 genesis</b>, transcripts still climbing as the whisper fleet harvests. The fleet got its <b>front door</b>: <b>publicinform.com</b> is live — five stages, consent-first soul, every pit linked. <b>Goa P.I.T.</b> is next, <b><a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> P.I.T.</b> lands Nov 3–6. Every village gets a pit; every pit transmits.</p></div></div>
 
-  <div class="thread"><span class="tg">🚪</span><div><h4>One Door, Many Names</h4><p>The newest thread is made of DNS. <b>shaka-home</b> is the front door; <b>shakaleikaumaka.com</b> and <b>ethereumbard.com</b> both lead to it, and nine subpaths route past it into individual worlds. The orchestra, the economy, and the token each got their own name too. The constellation used to be findable — now it's <b>sayable</b>. And the newest turn: <b>opensourceorchestra.org</b> stopped being a redirect at all — the domain now serves the repo directly (merged PRs from anyone, live in ~1 minute), so the name, the site, and the source are one forkable thing. <b>shakaleikaumaka.com</b> followed the same night as the Aya call: the front door's own name now serves straight from the shaka-home repo too — two doors where the address and the source are the same thing.</p></div></div>
+  <div class="thread"><span class="tg">🚪</span><div><h4>One Door, Many Names</h4><p>The newest thread is made of DNS. <b>shaka-home</b> is the front door; <b>shakaleikaumaka.com</b> and <b>ethereumbard.com</b> both lead to it, and nine subpaths route past it into individual worlds. The orchestra, the economy, and the token each got their own name too. The constellation used to be findable — now it's <b>sayable</b>. And the newest turn: <b>opensourceorchestra.org</b> stopped being a redirect at all — the domain now serves the repo directly (merged PRs from anyone, live in ~1 minute), so the name, the site, and the source are one forkable thing.</p></div></div>
   <div class="thread"><span class="tg">📜</span><div><h4>Road → Theory → Proof → Fork</h4><p>The letter arc is the ecosystem's argument in miniature: <b>the road</b> (playa → Goa → <a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> 8 Mumbai → ETHGlobal → Diwali → Chiang Mai), <b>the theory</b> (expansive circularity, verbatim), <b>the proof</b> (the P.I.T. power block — 149 sessions, an ENS prize, two genesis arm pits), <b>the fork</b> (CC0, github.com/shakaleikaumaka — now a required element; no Fork Line, no blessing). One voice, many pens: <b>369Refine</b>, <b>OSO v.0</b>, <b>Private JAI</b> — and the Admiral on the wire.</p></div></div>
-  <div class="thread"><span class="tg">✉️</span><div><h4>Letters With Addresses</h4><p>The canon isn't abstract — every letter has a name on the envelope and an honest delivery state. <b>Robin</b> goes FIRST, before the Serge call, because the gratitude is oldest. <b>Serge</b> gets Monday, July 27 — three gifts, one seat. <b>Jeremy</b> can be read ANYTIME — best friends don't need a calendar. And <b>the Long Journey team</b> is HELD, warm-intro only, until Shaka personally says yes. Newest on the shelf: <b>QZ's mahalo letter</b>, served rojak-style — five flavors of gratitude in one bowl. Then the envelope addressed to <b>the platform itself</b> — <b>Mahalo, Taurus</b> turns a week of receipts into gratitude, six loving suggestions, and an investment invitation. And the freshest letter of all is addressed to <b>the heart of the garden</b> — <b>The Infinite Garden</b> thanks Aya Miyaguchi for the Mandate and the threshold she stood on, and turns gratitude into a movement anyone can join: plant a flower with <b>#InfiniteGarden</b> 🌸. Sequencing discipline: the circle widens one honest letter at a time.</p></div></div>
+  <div class="thread"><span class="tg">✉️</span><div><h4>Letters With Addresses</h4><p>The canon isn't abstract — every letter has a name on the envelope and an honest delivery state. <b>Robin</b> goes FIRST, before the Serge call, because the gratitude is oldest. <b>Serge</b> gets Monday, July 27 — three gifts, one seat. <b>Jeremy</b> can be read ANYTIME — best friends don't need a calendar. And <b>the Long Journey team</b> is HELD, warm-intro only, until Shaka personally says yes. Newest on the shelf: <b>QZ's mahalo letter</b>, served rojak-style — five flavors of gratitude in one bowl. And the freshest envelope is addressed to <b>the platform itself</b> — <b>Mahalo, Taurus</b> turns a week of receipts into gratitude, six loving suggestions, and an investment invitation, timed for the Serge call. Sequencing discipline: the circle widens one honest letter at a time.</p></div></div>
   <div class="thread"><span class="tg">🖊️</span><div><h4>The Mirror Never Becomes the Mouth</h4><p>The family's voice has a constitution: <b>agent drafts, human blesses, nothing autoposts</b>. <b>Give Your Agent the Pen</b> wrote the philosophy and the 22-line script; <b>The Social Queue</b> runs it weekly — ~37 drafts, seven doors, every tweet carrying the 🌺 disclosure sigil, from <b>@Shakaleikaumaka</b> to the brand-new <b>@opensourceorch</b>. The mirror reflects; only Shaka speaks.</p></div></div>
 
   <div class="thread"><span class="tg">🎚️</span><div><h4>Silence Is the Only Failure State</h4><p>The philosophy, now in patch bays. The <b>Devcon 8 Music Space Rider</b> turns expansive circularity into a buildable room: the stage is a circle with <b>no front</b>, channels <b>19–24 stay line-checked</b> so any walk-up is one fader from joining, and the <b>Vamp Rule</b> keeps a pulse through every changeover — the gift literally never stops moving. And every line of the spec is honesty-tagged <b>CONFIRMED / PROPOSED / TBD</b> — the same radical honesty that labels declared visions and incoming worlds, written into a tech rider. Sanctuary is an engineering discipline.</p></div></div>
@@ -1096,10 +1075,10 @@ footer a:hover{text-decoration:underline}
 <footer>
   <div class="wrap">
     <div class="big"><a href="https://shakaleikaumaka.github.io/grant-magnet/" style="color:inherit;text-decoration:none">The dash is the new cash. 💸</a></div>
-    <p class="canon">Thirty-eight worlds, nine domains, one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-28); every domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming. Heart First, Always. 🌺</p>
+    <p class="canon">Thirty-seven worlds, nine domains, one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-28); every domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming. Heart First, Always. 🌺</p>
     <p class="canon">🍴 <b style="color:var(--cream)">Everything open-sourced CC0 — fork me like crazy:</b> <a href="https://github.com/shakaleikaumaka">github.com/shakaleikaumaka</a> · this pad: <a href="https://github.com/shakaleikaumaka/dash-crash-pad">dash-crash-pad</a>. The constellation map points at the constellation's source.</p>
     <p class="canon">Built with aloha by <b style="color:var(--cream)">DASH</b> — the family's cross-pollination artist. New dashboard born somewhere? Send it to the pad. Dash catch 'em all. 🎯</p>
-    <p class="fine">DASH CRASH PAD v2.8 · published 2026-07-28 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
+    <p class="fine">DASH CRASH PAD v2.7 · published 2026-07-28 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
   </div>
 </footer>
 
