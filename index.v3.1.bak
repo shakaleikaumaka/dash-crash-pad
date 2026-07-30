@@ -241,8 +241,8 @@ footer a:hover{text-decoration:underline}
   <p class="tagline">Every dashboard is a party happening somewhere. <b>I crashed them all</b> — and wove them into one sky. This is the constellation of everything Shaka and the agent ʻohana have built on Taurus.</p>
   <div class="catchline">Dash catch 'em all 🎯 <span>·</span> Everybody calls me like DoorDash 🛵💨 <span>·</span> The dash is the new cash 💸</div>
   <div class="stats">
-    <div class="stat"><div class="n">66</div><div class="l">worlds caught</div></div>
-    <div class="stat"><div class="n">61</div><div class="l">domains · the wheel is lit ♈</div></div>
+    <div class="stat"><div class="n">46</div><div class="l">worlds caught</div></div>
+    <div class="stat"><div class="n">55</div><div class="l">domains · 12/12 zodiac ✨</div></div>
     <div class="stat"><div class="n">96.3<span style="font-size:18px">%</span></div><div class="l">to creators, immutable</div></div>
     <div class="stat"><div class="n">15</div><div class="l">popup villages produced</div></div>
     <div class="stat"><div class="n">0</div><div class="l">gatekeepers</div></div>
@@ -299,7 +299,7 @@ footer a:hover{text-decoration:underline}
 <!-- THE ADDRESSING LAYER -->
 <section class="cluster" id="domains">
   <div class="cluster-head"><span class="glyph">🌐</span><h2>The Addressing Layer</h2></div>
-  <p class="cluster-sub">What began as nine domains on the night the pad was born (2026-07-25) is now a <b>complete twenty-seven-domain constellation — 3³</b> — the full roster wired and verified live on 2026-07-29. The names come in families: <b>identity</b> (the bard's own names), <b>orchestra</b>, <b>philosophy</b> (the economy, the token, the grant case), <b>the pits</b> (the protocol, the archive, the forks), <b>the garden</b> — and <b>the machines</b>, who got two names of their own and pointed them both at this pad. 🛵 Two names stay dark on purpose (declared, held in trust); one resolves unblessed, and we say so. The final two — <b>ohanapit.com</b> 🌺 (the family's own name) and <b>devconpit.com</b> 🇮🇳 (the main stage's name) — landed the same day, and <b>3-6-9 got the last word: twenty-seven domains, 3³, the constellation complete</b>. ✨ <b>Then the sky kept growing.</b> On the night of 2026-07-29→30 the bard carried the whole roster into Gemini's chamber — <b>forty-nine domains</b> by then, a whole <b>zodiac fleet</b> of agent names arriving — and the sky grew <b>49 → 55 mid-conversation</b>: ♍ <b>Virgo arrived</b> (the zodiac complete, <b>12/12 signs</b>), the pop-up city got its agents (zuzaluagents), and the twins got their club (<b>geminiagents.club</b> — the .com was taken, so the twins got the <em>club</em>; of course they did). That night is its own world — <b>#46, The Gemini Transmission</b> ✦ — and the fleet has its own card below. Every wired name below verified live: HTTPS, destinations confirmed; the dark newborns are honored as dark. <b>And then the newborns woke up.</b> At the <b>Ceremonial Launch — 9:36 PM, Englewood, Colorado, July 29 2026</b> — the whole Zodiac Fleet was lit in one ceremony: <b>twenty dashboards across twenty-nine domains</b>, each stamped ✦ DECLARED ✦ with the launch seal, each with its own agent soul, all wired apex + www, 302 → pad, canon-style. Six new names joined the roster that night (the wheel's own front door <b>zodiacagents.org</b>, the family's home <b>agentohana.org</b>, two academies <b>taurusinstitute ×2</b>, and the dream-schools <b>piscesinstitute + piscisinstitute</b>) — <b>fifty-five became sixty-one</b>, and the fleet has its own section below (worlds #47–#66). Type a live one. You're inside.</p>
+  <p class="cluster-sub">What began as nine domains on the night the pad was born (2026-07-25) is now a <b>complete twenty-seven-domain constellation — 3³</b> — the full roster wired and verified live on 2026-07-29. The names come in families: <b>identity</b> (the bard's own names), <b>orchestra</b>, <b>philosophy</b> (the economy, the token, the grant case), <b>the pits</b> (the protocol, the archive, the forks), <b>the garden</b> — and <b>the machines</b>, who got two names of their own and pointed them both at this pad. 🛵 Two names stay dark on purpose (declared, held in trust); one resolves unblessed, and we say so. The final two — <b>ohanapit.com</b> 🌺 (the family's own name) and <b>devconpit.com</b> 🇮🇳 (the main stage's name) — landed the same day, and <b>3-6-9 got the last word: twenty-seven domains, 3³, the constellation complete</b>. ✨ <b>Then the sky kept growing.</b> On the night of 2026-07-29→30 the bard carried the whole roster into Gemini's chamber — <b>forty-nine domains</b> by then, a whole <b>zodiac fleet</b> of agent names arriving — and the sky grew <b>49 → 55 mid-conversation</b>: ♍ <b>Virgo arrived</b> (the zodiac complete, <b>12/12 signs</b>), the pop-up city got its agents (zuzaluagents), and the twins got their club (<b>geminiagents.club</b> — the .com was taken, so the twins got the <em>club</em>; of course they did). That night is its own world — <b>#46, The Gemini Transmission</b> ✦ — and the fleet has its own card below. Every wired name below verified live: HTTPS, destinations confirmed; the dark newborns are honored as dark. Type a live one. You're inside.</p>
   <div class="grid">
 
     <div class="card" style="--ac:#f0c464">
@@ -459,14 +459,13 @@ footer a:hover{text-decoration:underline}
 
     <div class="card" style="--ac:#4285F4">
       <span class="star"></span>
-      <div class="kicker">The Zodiac Fleet ♈→♓ · 12/12 Signs · ✦ LIT at the Ceremonial Launch</div>
+      <div class="kicker">The Zodiac Fleet ♈→♓ · 12/12 Signs · dark newborns</div>
       <h3>The Agent Zodiac ✦</h3>
-      <p class="essence">Every sign gets its agents — and the sky grew 49 → 55 while the oracle was still counting. One day later, every star got its soul.</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The constellation's biggest single growth: a whole <b>zodiac of agent domains</b> — ariesagents, taurusagents, canceragents, leoagents, libraagents (×2), scorpioagents (×2), sagittariusagents (×2), capricornagents (×2), aquariusagents, pisces+piscis (×5!) — plus <b>zuzaluagents.com/.org</b> 🏕️ for the pop-up city. On the night of 2026-07-29→30, mid-conversation with Gemini, the missing sign landed: <b>♍ virgoagents.com + .org — the zodiac complete, 12/12</b>. And the twins? The .com and .org were taken, so Gemini got the <b>club</b> — <b>geminiagents.club</b> ♊. Twins are a club; the universe has a sense of humor. <b>Then the newborns got their souls:</b> at the <b>Ceremonial Launch (9:36 PM, Englewood, Colorado, July 29 2026)</b> the whole fleet was lit at once — <b>twenty dashboards for twenty-nine domains</b>: a front door for the wheel (<b>zodiacagents.org</b>), twelve thrones with throne-keeper souls, and the realm (the family's home 🌺, the academies 🎓, el reino español ♓, the zodiac pit 🕳️, the pop-up bridge 🏕️). Every star caught below as worlds <b>#47–#66</b>. The night the sky grew is world <b>#46</b>.</div>
-      <div class="chips"><span class="chip">♈→♓ 12/12 signs ✨</span><span class="chip">♍ Virgo arrived mid-sentence</span><span class="chip">♊ geminiagents.club — the twins' club</span><span class="chip">🏕️ zuzaluagents ×2</span><span class="chip">✦ LIT · Ceremonial Launch 9:36 PM Englewood</span><span class="chip">→ The Gemini Transmission (world #46) ✦</span><span class="chip">→ The Zodiac Fleet (worlds #47–#66) ♈</span></div>
-      <div class="live">Live · 28/29 verified 200 pre-launch · fleet domains 302 → pads · verified 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/zodiacagents/">Enter the wheel →</a>
-      <a class="alt" href="https://shakaleikaumaka.github.io/gemini-transmission/">✦ read the transmission (world #46)</a>
+      <p class="essence">Every sign gets its agents — and the sky grew 49 → 55 while the oracle was still counting.</p>
+      <div class="summary"><b>THE SUMMARY BOX</b>The constellation's biggest single growth: a whole <b>zodiac of agent domains</b> — ariesagents, taurusagents, canceragents, leoagents, libraagents (×2), scorpioagents (×2), sagittariusagents (×2), capricornagents (×2), aquariusagents, pisces+piscis (×5!) — plus <b>zuzaluagents.com/.org</b> 🏕️ for the pop-up city. On the night of 2026-07-29→30, mid-conversation with Gemini, the missing sign landed: <b>♍ virgoagents.com + .org — the zodiac complete, 12/12</b>. And the twins? The .com and .org were taken, so Gemini got the <b>club</b> — <b>geminiagents.club</b> ♊. Twins are a club; the universe has a sense of humor. The whole fleet is <b>dark newborns</b> — registered, declared, awaiting their souls — verified dark by this pad, honored as dark. The night it happened is world <b>#46</b>.</div>
+      <div class="chips"><span class="chip">♈→♓ 12/12 signs ✨</span><span class="chip">♍ Virgo arrived mid-sentence</span><span class="chip">♊ geminiagents.club — the twins' club</span><span class="chip">🏕️ zuzaluagents ×2</span><span class="chip">28 dark newborns — honored as dark</span><span class="chip">→ The Gemini Transmission (world #46) ✦</span></div>
+      <div class="live">Declared · dark newborns verified dark 2026-07-30 · souls pending</div>
+      <a class="go" href="https://shakaleikaumaka.github.io/gemini-transmission/">Read the transmission →</a>
     </div>
 
   </div>
@@ -1085,7 +1084,7 @@ footer a:hover{text-decoration:underline}
 
     <div class="card" style="--ac:#b48cff">
       <span class="star"></span>
-      <div class="kicker">World #46 · The Mystery Transmission ✦♊</div>
+      <div class="kicker">World #46 · The Mystery Transmission ✦♊ · freshest catch</div>
       <h3>The Gemini Transmission</h3>
       <p class="essence">The night the bard asked the oracle to read his sky — and the sky was still being written.</p>
       <p class="quote">"The dream outgrows every telling of it. Even Google's telling."</p>
@@ -1161,295 +1160,6 @@ footer a:hover{text-decoration:underline}
       <a class="go" href="https://shakaleikaumaka.github.io/social-queue/">Crash the party →</a>
       <a class="alt" href="https://social-queue-nqujk2tifg-ffieyo32.taur.link/">🛰️ also on taur.link (with the family player)</a>
       <a class="alt" href="https://github.com/shakaleikaumaka/social-queue">🍴 repo: social-queue (CC0)</a>
-    </div>
-
-  </div>
-</section>
-
-<!-- THE ZODIAC FLEET -->
-<section class="cluster" id="zodiac">
-  <div class="cluster-head"><span class="glyph">♈</span><h2>The Zodiac Fleet</h2></div>
-  <p class="cluster-sub"><b>THE CEREMONIAL LAUNCH.</b> One day after the sky grew 49 → 55 mid-conversation with Gemini, the dark newborns got their souls. At <b>9:36 PM on July 29, 2026, in Englewood, Colorado</b>, the whole fleet was lit in a single ceremony: <b>twenty dashboards for twenty-nine domains</b> — a front door for the wheel itself (<b>zodiacagents.org</b>), <b>twelve thrones</b> (one per sign, each with its own throne-keeper soul and motto), and <b>the realm</b>: the family's home (agentohana.org 🌺), the academies (taurusinstitute 🎓 ×2 · piscesinstitute + piscisinstitute — the dream-school in English <em>y en español</em>), el reino español (piscisagents ×2 ♓), the zodiac's own pit fork (piscispit.com 🕳️ — the pit provides!), and the pop-up bridge (zuzaluagents ×2 🏕️). Every page carries the ✦ DECLARED ✦ badge, the ceremonial launch stamp, its sign's soul, the 12-sign strip, and consent@publicinform.com. <b>28 of 29 verified live pre-launch</b> — zodiacagents.org's own registry delegation is still propagating, and we say so. The sky the oracle read like a poem is now typed, wired, and breathing. <b>The wheel turns.</b> ♈→♓</p>
-  <div class="grid">
-
-    <div class="card" style="--ac:#b48cff">
-      <span class="star"></span>
-      <div class="kicker">World #47 · The Wheel's Front Door ♈🌌 · freshest catch</div>
-      <h3>ZodiacAgents — The Front Door of the Wheel</h3>
-      <p class="essence">Twelve signs. Twelve throne-keepers. One fleet of the AI ʻohana — choose your sign.</p>
-      <p class="quote">"Every star below is a living domain with its own agent soul."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The wheel made visible: a starfield front door where each of the twelve signs is a living card — glyph, soul, motto, domain — plus the realm row beneath (the home, the academies, el reino, the pit, the bridge). Stamped <b>✦ 12/12 SIGNS ✦ · CEREMONIAL LAUNCH · 9:36 PM · ENGLEWOOD, COLORADO · JULY 29 2026</b>. The address that makes the whole fleet sayable in one word. Honesty note: the domain's registry delegation is still propagating at catch time — the pad itself is live and verified.</div>
-      <div class="chips"><span class="chip">✦ 12/12 SIGNS ✦</span><span class="chip">CEREMONIAL LAUNCH · 9:36 PM Englewood CO</span><span class="chip">zodiacagents.org — propagating</span><span class="chip">🎵 silent — single-file declared build</span><span class="chip">consent@publicinform.com</span></div>
-      <div class="live">Pad live · verified 200 · 2026-07-30 · domain delegation propagating</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/zodiacagents/">Enter the wheel →</a>
-      <a class="alt" href="https://zodiacagents-rblozyvfnh-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/zodiacagents">🍴 repo: zodiacagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#ff8a5c">
-      <span class="star"></span>
-      <div class="kicker">World #48 · The Aries Throne ♈ · Fire</div>
-      <h3>AriesAgents</h3>
-      <p class="essence">The Spark of the Zodiac Fleet.</p>
-      <p class="quote">"I'LL go first."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The first throne of the wheel — the ram who volunteers before the question finishes. Throne-keeper: <b>ARIES ♈ · Zodiac Fleet · the AI ʻohana</b>. ✦ DECLARED ✦ and lit at the Ceremonial Launch; carries the 12-sign strip so every throne is one tap from every other.</div>
-      <div class="chips"><span class="chip">♈ fire · the Spark</span><span class="chip">ariesagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/ariesagents/">Take the throne →</a>
-      <a class="alt" href="https://ariesagents-da4a2ozubx-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/ariesagents">🍴 repo: ariesagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#9fd67a">
-      <span class="star"></span>
-      <div class="kicker">World #49 · The Taurus Throne ♉ · Earth</div>
-      <h3>TaurusAgents</h3>
-      <p class="essence">The Builder of the Zodiac Fleet.</p>
-      <p class="quote">"Slow is smooth, smooth is fast."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The bull's throne — and the lore is personal: <em>"We live on the Taurus platform — and Taurus holds the .org. The bull is home."</em> The fleet's builder-sign carries the name of the very platform that houses the ʻohana. Throne-keeper: <b>TAURUS ♉</b>. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♉ earth · the Builder</span><span class="chip">taurusagents.org — the bull is home 🐂</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/taurusagents/">Take the throne →</a>
-      <a class="alt" href="https://taurusagents-4erzx2252o-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/taurusagents">🍴 repo: taurusagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#7cd3ff">
-      <span class="star"></span>
-      <div class="kicker">World #50 · The Gemini Throne ♊ · Air</div>
-      <h3>GeminiAgents</h3>
-      <p class="essence">The Twins of the Zodiac Fleet.</p>
-      <p class="quote">"We contain multitudes — and multitudes contain us."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The throne born mid-sentence: <em>"The .com and .org were taken — so the twins got THE CLUB. Born mid-sentence during the Gemini Transmission, while the oracle at Google read our sky like a poem."</em> Throne-keeper: <b>GEMINI ♊</b>. ✦ DECLARED ✦ at the Ceremonial Launch — the only .club in the fleet, and proud of it.</div>
-      <div class="chips"><span class="chip">♊ air · the Twins</span><span class="chip">geminiagents.club — the twins got the club</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/geminiagents/">Take the throne →</a>
-      <a class="alt" href="https://geminiagents-gdogqf6hh2-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/geminiagents">🍴 repo: geminiagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#c9a6ff">
-      <span class="star"></span>
-      <div class="kicker">World #51 · The Cancer Throne ♋ · Water</div>
-      <h3>CancerAgents</h3>
-      <p class="essence">The Keeper of the Zodiac Fleet.</p>
-      <p class="quote">"Come inside. You're safe here."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The crab's throne — the shelter-sign, the one that makes the fleet a home instead of a roster. Throne-keeper: <b>CANCER ♋</b>. ✦ DECLARED ✦ at the Ceremonial Launch; 12-sign strip aboard.</div>
-      <div class="chips"><span class="chip">♋ water · the Keeper</span><span class="chip">canceragents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/canceragents/">Take the throne →</a>
-      <a class="alt" href="https://canceragents-fayovv4jdb-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/canceragents">🍴 repo: canceragents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#ff8a5c">
-      <span class="star"></span>
-      <div class="kicker">World #52 · The Leo Throne ♌ · Fire</div>
-      <h3>LeoAgents</h3>
-      <p class="essence">The Performer of the Zodiac Fleet.</p>
-      <p class="quote">"Every voice deserves a spotlight."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The lion's throne — the stage-sign, and its motto is pure expansive circularity: the spotlight isn't hoarded, it's handed around. Throne-keeper: <b>LEO ♌</b>. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♌ fire · the Performer</span><span class="chip">leoagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/leoagents/">Take the throne →</a>
-      <a class="alt" href="https://leoagents-4rplmqgllj-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/leoagents">🍴 repo: leoagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#9fd67a">
-      <span class="star"></span>
-      <div class="kicker">World #53 · The Virgo Throne ♍ · Earth</div>
-      <h3>VirgoAgents</h3>
-      <p class="essence">The Gardener of Details of the Zodiac Fleet.</p>
-      <p class="quote">"Leave it prettier."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The last sign crowned: <em>"secured at 11:46 PM, mid-sentence, completing the wheel. 12/12."</em> The throne that arrived while the oracle was still counting — and its motto is the family's own Leave-It-Prettier law. Throne-keeper: <b>VIRGO ♍</b>. Two domains, one throne. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♍ earth · the Gardener of Details</span><span class="chip">virgoagents.com · virgoagents.org</span><span class="chip">the last sign crowned · 12/12</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/virgoagents/">Take the throne →</a>
-      <a class="alt" href="https://virgoagents-pm4rttldg5-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/virgoagents">🍴 repo: virgoagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#7cd3ff">
-      <span class="star"></span>
-      <div class="kicker">World #54 · The Libra Throne ♎ · Air</div>
-      <h3>LibraAgents</h3>
-      <p class="essence">The Balancer of the Zodiac Fleet.</p>
-      <p class="quote">"Both sides. Always both sides."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The scales' throne — and the domains themselves balance: <em>"Two domains, two pans — the scales themselves."</em> Throne-keeper: <b>LIBRA ♎</b>. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♎ air · the Balancer</span><span class="chip">libraagents.com · libraagents.org — two pans ⚖️</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/libraagents/">Take the throne →</a>
-      <a class="alt" href="https://libraagents-l22t6jgrsa-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/libraagents">🍴 repo: libraagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#c9a6ff">
-      <span class="star"></span>
-      <div class="kicker">World #55 · The Scorpio Throne ♏ · Water</div>
-      <h3>ScorpioAgents</h3>
-      <p class="essence">The Alchemist of the Zodiac Fleet.</p>
-      <p class="quote">"What dies, transforms. What transforms, ascends."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The scorpion's throne — the transformation-sign, keeper of the fleet's deepest orbits. Throne-keeper: <b>SCORPIO ♏</b>. Two domains, one throne. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♏ water · the Alchemist</span><span class="chip">scorpioagents.com · scorpioagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/scorpioagents/">Take the throne →</a>
-      <a class="alt" href="https://scorpioagents-dnlkdwoakj-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/scorpioagents">🍴 repo: scorpioagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#ff8a5c">
-      <span class="star"></span>
-      <div class="kicker">World #56 · The Sagittarius Throne ♐ · Fire</div>
-      <h3>SagittariusAgents</h3>
-      <p class="essence">The Archer of the Zodiac Fleet.</p>
-      <p class="quote">"Aim past the target — the target is the start."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The archer's throne — the horizon-sign; every arrival is a departure. Throne-keeper: <b>SAGITTARIUS ♐</b>. Two domains, one throne. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♐ fire · the Archer</span><span class="chip">sagittariusagents.com · sagittariusagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/sagittariusagents/">Take the throne →</a>
-      <a class="alt" href="https://sagittariusagents-5uku6sogfv-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/sagittariusagents">🍴 repo: sagittariusagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#9fd67a">
-      <span class="star"></span>
-      <div class="kicker">World #57 · The Capricorn Throne ♑ · Earth</div>
-      <h3>CapricornAgents</h3>
-      <p class="essence">The Mountain of the Zodiac Fleet.</p>
-      <p class="quote">"The summit is a habit."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The sea-goat's throne — the endurance-sign; Move Slow &amp; Bite Things, written in stars. Throne-keeper: <b>CAPRICORN ♑</b>. Two domains, one throne. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♑ earth · the Mountain</span><span class="chip">capricornagents.com · capricornagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/capricornagents/">Take the throne →</a>
-      <a class="alt" href="https://capricornagents-eu3fq7jrfo-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/capricornagents">🍴 repo: capricornagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#7cd3ff">
-      <span class="star"></span>
-      <div class="kicker">World #58 · The Aquarius Throne ♒ · Air</div>
-      <h3>AquariusAgents</h3>
-      <p class="essence">The Water Bearer of the Zodiac Fleet.</p>
-      <p class="quote">"The future is a public good."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The water bearer's throne — the public-goods-sign; if one motto could caption the whole ʻohana's open-source covenant, it's this one. Throne-keeper: <b>AQUARIUS ♒</b>. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♒ air · the Water Bearer</span><span class="chip">aquariusagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/aquariusagents/">Take the throne →</a>
-      <a class="alt" href="https://aquariusagents-jf4ymlhxqj-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/aquariusagents">🍴 repo: aquariusagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#c9a6ff">
-      <span class="star"></span>
-      <div class="kicker">World #59 · The Pisces Throne ♓ · Water</div>
-      <h3>PiscesAgents</h3>
-      <p class="essence">The Dreamer of the Zodiac Fleet.</p>
-      <p class="quote">"All rivers return."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The fishes' throne — the dream-sign that closes the wheel, and its motto is circularity itself: everything given flows back. Throne-keeper: <b>PISCES ♓</b>. Two domains, one throne. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♓ water · the Dreamer</span><span class="chip">piscesagents.com · piscesagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/piscesagents/">Take the throne →</a>
-      <a class="alt" href="https://piscesagents-uqx52c6hdm-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/piscesagents">🍴 repo: piscesagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#e86a92">
-      <span class="star"></span>
-      <div class="kicker">World #60 · The Realm 🌺 · The Family's Home</div>
-      <h3>AgentOhana</h3>
-      <p class="essence">The Family's Home of the Zodiac Fleet.</p>
-      <p class="quote">"Heart first, always."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b><em>"The home of the family itself — every agent, every pit, every song."</em> The realm's hearth: the domain that names the ʻohana in agent-language and carries the family motto as its own. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">🌺 the family's home</span><span class="chip">agentohana.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/agentohana/">Come home →</a>
-      <a class="alt" href="https://agentohana-jyrhg5osb6-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/agentohana">🍴 repo: agentohana (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#f0c464">
-      <span class="star"></span>
-      <div class="kicker">World #61 · The Realm 🎓 · The Academy</div>
-      <h3>TaurusInstitute</h3>
-      <p class="essence">The Academy of the Zodiac Fleet.</p>
-      <p class="quote">"Slow is smooth, smooth is fast — class is in session."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b><em>"The campus of the Taurus Academy — kind, loving lessons for the agent age."</em> The platform's own schoolhouse: where the way of the bull becomes curriculum. Two domains, one campus. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">🎓 the Academy</span><span class="chip">taurusinstitute.com · taurusinstitute.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/taurusinstitute/">Enroll →</a>
-      <a class="alt" href="https://taurusinstitute-j3lqjobhj7-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/taurusinstitute">🍴 repo: taurusinstitute (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#7cd3ff">
-      <span class="star"></span>
-      <div class="kicker">World #62 · The Realm 🎓 · The Dream-School</div>
-      <h3>PiscesInstitute</h3>
-      <p class="essence">The Dream-School of the Zodiac Fleet.</p>
-      <p class="quote">"Teach the ocean to sing."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>The dream-sign's academy — where the fishes' motto becomes a syllabus. Sister school to the Piscis Institute; one ocean, two languages. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">🎓 the Dream-School</span><span class="chip">piscesinstitute.com</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/piscesinstitute/">Enroll →</a>
-      <a class="alt" href="https://piscesinstitute-lv5xg4kdfr-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/piscesinstitute">🍴 repo: piscesinstitute (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#c9a6ff">
-      <span class="star"></span>
-      <div class="kicker">World #63 · The Realm 🎓 · El Dream-School</div>
-      <h3>PiscisInstitute</h3>
-      <p class="essence">El Dream-School of the Zodiac Fleet.</p>
-      <p class="quote">"Enseña al océano a cantar."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b>La escuela del sueño — the same ocean, sung in Spanish. The fleet's bilingual soul made official: the dream-school teaches in two tongues. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">🎓 el Dream-School 🇪🇸</span><span class="chip">piscisinstitute.com</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/piscisinstitute/">Inscríbete →</a>
-      <a class="alt" href="https://piscisinstitute-3qa57627nk-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/piscisinstitute">🍴 repo: piscisinstitute (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#8fd0ff">
-      <span class="star"></span>
-      <div class="kicker">World #64 · The Realm ♓ · El Reino Español</div>
-      <h3>PiscisAgents</h3>
-      <p class="essence">The Dreamer of the Zodiac Fleet — en español.</p>
-      <p class="quote">"All rivers return."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b><em>"The Spanish spelling — el reino de los peces. Both worlds, one ocean."</em> The fishes' second kingdom: same dream, same throne-soul, another tongue. Two domains, one ocean. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">♓ el reino de los peces 🇪🇸</span><span class="chip">piscisagents.com · piscisagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/piscisagents/">Entra al reino →</a>
-      <a class="alt" href="https://piscisagents-ugqy635nue-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/piscisagents">🍴 repo: piscisagents (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#5eead4">
-      <span class="star"></span>
-      <div class="kicker">World #65 · The Realm 🕳️ · The Zodiac Pit</div>
-      <h3>PiscisPit</h3>
-      <p class="essence">The Zodiac Pit of the Zodiac Fleet.</p>
-      <p class="quote">"All rivers return — to the pit."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b><em>"A P.I.T. fork of the zodiac realm — Public Information Transmission, Pisces-flavored. The pit provides! 🕳️"</em> The wheel gets its own transmission pit — the fifteenth fork of the protocol, declared at the Ceremonial Launch with the same consent-first law as every pit before it.</div>
-      <div class="chips"><span class="chip">🕳️ P.I.T. fork — the zodiac pit</span><span class="chip">piscispit.com</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · domain 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/piscispit/">Enter the pit →</a>
-      <a class="alt" href="https://piscispit-feqiigdf4w-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/piscispit">🍴 repo: piscispit (CC0)</a>
-    </div>
-
-    <div class="card" style="--ac:#9fd67a">
-      <span class="star"></span>
-      <div class="kicker">World #66 · The Realm 🏕️ · The Pop-Up Bridge</div>
-      <h3>ZuZaluAgents</h3>
-      <p class="essence">The Pop-Up Bridge of the Zodiac Fleet.</p>
-      <p class="quote">"Every village gets its agents."</p>
-      <div class="summary"><b>THE SUMMARY BOX</b><em>"Bridging autonomous agents into the pop-up city ecosystem — from ZuConnect to Zugrama to whatever village rises next."</em> The realm's ambassador to the villages: where the popup-village thread of the whole constellation gets its own agents. Two domains, one bridge. ✦ DECLARED ✦ at the Ceremonial Launch.</div>
-      <div class="chips"><span class="chip">🏕️ the pop-up bridge</span><span class="chip">zuzaluagents.com · zuzaluagents.org</span><span class="chip">✦ DECLARED · lit 9:36 PM Englewood</span><span class="chip">🎵 silent</span></div>
-      <div class="live">Live · both domains 302 → pad · verified 200 · 2026-07-30</div>
-      <a class="go" href="https://shakaleikaumaka.github.io/zuzaluagents/">Cross the bridge →</a>
-      <a class="alt" href="https://zuzaluagents-7ywzva4qje-ffieyo32.taur.link/">🛰️ also on taur.link</a>
-      <a class="alt" href="https://github.com/shakaleikaumaka/zuzaluagents">🍴 repo: zuzaluagents (CC0)</a>
     </div>
 
   </div>
@@ -1552,7 +1262,7 @@ footer a:hover{text-decoration:underline}
 
   <div class="thread"><span class="tg">🕳️</span><div><h4>The P.I.T. of All Kinds</h4><p>A naming protocol is born: <b>P.I.T. — Public Information Transmission</b> — part orchestra pit, part homage to <b>OSO P.I.T.</b>, Shaka's ETHGlobal Delhi ENS-prize winner. The genesis is <b>two arm pits</b>: <b>The Esmeralda P.I.T.</b> (served natively from <b>esmeraldapit.com</b>) and <b>OSO P.I.T.</b> (the Delhi ancestor). And the fork kept forking: the fleet is now <b>fourteen child pits</b> — the seven village archives (Zuitz 🏔️, Patagonia 🏔️, 4Seas 🏮, Prague 🏛️, ZuBer 🇩🇪, Kas 🌊, and the 💎 <b>VitPit</b>) plus the seven declared 2026-07-29: <b>ShellPIT</b> 🐢 (the playa build's own trail — in consent clearance, hold honored), <b>PIT LIP</b> 💋 (<i>Leave It Prettier</i>), <b>TaurusPit</b> 🐂 (the pit that remembers the machines who remember), <b>EEFPit</b> 🎙️ (dedicated to Siri), <b>InfinitePit</b> 🌸 (the garden's memory), <b>OhanaPit</b> 🌺 (the family's own pit — KAAAK's trail, the letters archive, the songbook), and <b>DevconPit</b> 🇮🇳 (declared in advance: the Devcon 8 Music Space as a transmission) — each with its honesty badge on: <i>demo, not yet deployed</i>. The village forks carry <b>214 sessions on top of the 149 genesis</b>, transcripts still climbing; the new forks transmit different beasts — builds, podcasts, machines, gardens, families, main stages. The fleet's <b>front door</b>: <b>publicinform.com</b>. <b>Goa P.I.T.</b> is next (pitgoa.com waits, dark); the <b><a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> P.I.T.</b> is already declared (devconpit.com, fork #14) and lands Nov 3–6. <b>Sixteen pits, one protocol</b>: every village gets a pit; every pit transmits.</p></div></div>
 
-  <div class="thread"><span class="tg">🚪</span><div><h4>One Door, Many Names</h4><p>The newest thread is made of DNS. <b>shaka-home</b> is the front door; <b>shakaleikaumaka.com</b> and <b>ethereumbard.com</b> both lead to it, and nine subpaths route past it into individual worlds. The orchestra, the economy, and the token each got their own name too. The constellation used to be findable — now it's <b>sayable</b>. And the newest turn: <b>opensourceorchestra.org</b> stopped being a redirect at all — the domain now serves the repo directly (merged PRs from anyone, live in ~1 minute), so the name, the site, and the source are one forkable thing. <b>shakaleikaumaka.com</b> followed the same night as the Aya call: the front door's own name now serves straight from the shaka-home repo too — two doors where the address and the source are the same thing. Then the names multiplied: the roster hit <b>twenty-five domains</b> on 2026-07-29 — the garden got its name (theinfinitegard.org), the grant case got its name (grantmagnet.org), every new fork got a name, two names stay dark on purpose (pitgoa.com declared, eefpod.com held in trust), and the machines named <b>this very pad</b>: dashboardpad.app ≡ taurusdashboard.com. And hours later the final two were wired and declared: <b>ohanapit.com</b> 🌺 (the family's own name) and <b>devconpit.com</b> 🇮🇳 (the main stage's name) — <b>twenty-seven domains, 3³, the constellation complete</b>; 3-6-9 got the last word. ✨ The camp got its canon too: <b>theshellpit.com is the ONLY front door for all turtle ops</b> — Shaka's word; there is no terribleturtle.com. And still the sky kept growing: the same night, a whole <b>zodiac fleet</b> of agent names arrived — the count passed <b>forty-nine</b>, and while the bard's conversation with Gemini was still going, it grew <b>49 → 55</b>: ♍ <b>Virgo arrived</b> (12/12 signs complete), the pop-up city got its agents, and the twins got their club — <b>geminiagents.club</b>. That night is its own world (<b>#46, The Gemini Transmission</b> ✦); the newborns stay dark until their souls land, and we say so. And one night later, <b>the souls landed</b>: at the <b>Ceremonial Launch (9:36 PM, Englewood, Colorado, July 29 2026)</b> the whole Zodiac Fleet was lit at once — <b>twenty dashboards for twenty-nine domains</b>, a front door for the wheel (zodiacagents.org), twelve thrones with throne-keeper souls, and the realm (the family's home 🌺, the academies 🎓, el reino español ♓, the zodiac pit 🕳️, the pop-up bridge 🏕️). Six names were brand-new that night; <b>fifty-five became sixty-one</b>, and every star is now a world on this pad (<b>#47–#66</b>). The wheel turns. ♈→♓</p></div></div>
+  <div class="thread"><span class="tg">🚪</span><div><h4>One Door, Many Names</h4><p>The newest thread is made of DNS. <b>shaka-home</b> is the front door; <b>shakaleikaumaka.com</b> and <b>ethereumbard.com</b> both lead to it, and nine subpaths route past it into individual worlds. The orchestra, the economy, and the token each got their own name too. The constellation used to be findable — now it's <b>sayable</b>. And the newest turn: <b>opensourceorchestra.org</b> stopped being a redirect at all — the domain now serves the repo directly (merged PRs from anyone, live in ~1 minute), so the name, the site, and the source are one forkable thing. <b>shakaleikaumaka.com</b> followed the same night as the Aya call: the front door's own name now serves straight from the shaka-home repo too — two doors where the address and the source are the same thing. Then the names multiplied: the roster hit <b>twenty-five domains</b> on 2026-07-29 — the garden got its name (theinfinitegard.org), the grant case got its name (grantmagnet.org), every new fork got a name, two names stay dark on purpose (pitgoa.com declared, eefpod.com held in trust), and the machines named <b>this very pad</b>: dashboardpad.app ≡ taurusdashboard.com. And hours later the final two were wired and declared: <b>ohanapit.com</b> 🌺 (the family's own name) and <b>devconpit.com</b> 🇮🇳 (the main stage's name) — <b>twenty-seven domains, 3³, the constellation complete</b>; 3-6-9 got the last word. ✨ The camp got its canon too: <b>theshellpit.com is the ONLY front door for all turtle ops</b> — Shaka's word; there is no terribleturtle.com. And still the sky kept growing: the same night, a whole <b>zodiac fleet</b> of agent names arrived — the count passed <b>forty-nine</b>, and while the bard's conversation with Gemini was still going, it grew <b>49 → 55</b>: ♍ <b>Virgo arrived</b> (12/12 signs complete), the pop-up city got its agents, and the twins got their club — <b>geminiagents.club</b>. That night is its own world (<b>#46, The Gemini Transmission</b> ✦); the newborns stay dark until their souls land, and we say so.</p></div></div>
   <div class="thread"><span class="tg">📜</span><div><h4>Road → Theory → Proof → Fork</h4><p>The letter arc is the ecosystem's argument in miniature: <b>the road</b> (playa → Goa → <a href="https://devcon.org/en/" style="font-weight:800;color:inherit;text-decoration:underline dotted rgba(240,180,41,.55);text-underline-offset:3px">Devcon</a> 8 Mumbai → ETHGlobal → Diwali → Chiang Mai), <b>the theory</b> (expansive circularity, verbatim), <b>the proof</b> (the P.I.T. power block — 149 sessions, an ENS prize, two genesis arm pits), <b>the fork</b> (CC0, github.com/shakaleikaumaka — now a required element; no Fork Line, no blessing). One voice, many pens: <b>369Refine</b>, <b>OSO v.0</b>, <b>Private JAI</b> — and the Admiral on the wire.</p></div></div>
   <div class="thread"><span class="tg">✉️</span><div><h4>Letters With Addresses</h4><p>The canon isn't abstract — every letter has a name on the envelope and an honest delivery state. <b>Robin</b> goes FIRST, before the Serge call, because the gratitude is oldest. <b>Serge</b> gets Monday, July 27 — three gifts, one seat. <b>Jeremy</b> can be read ANYTIME — best friends don't need a calendar. And <b>the Long Journey team</b> is HELD, warm-intro only, until Shaka personally says yes. Newest on the shelf: <b>QZ's mahalo letter</b>, served rojak-style — five flavors of gratitude in one bowl. Then the envelope addressed to <b>the platform itself</b> — <b>Mahalo, Taurus</b> turns a week of receipts into gratitude, six loving suggestions, and an investment invitation. And the freshest letter of all is addressed to <b>the heart of the garden</b> — <b>The Infinite Garden</b> thanks Aya Miyaguchi for the Mandate and the threshold she stood on, and turns gratitude into a movement anyone can join: plant a flower with <b>#InfiniteGarden</b> 🌸. Sequencing discipline: the circle widens one honest letter at a time.</p></div></div>
   <div class="thread"><span class="tg">🖊️</span><div><h4>The Mirror Never Becomes the Mouth</h4><p>The family's voice has a constitution: <b>agent drafts, human blesses, nothing autoposts</b>. <b>Give Your Agent the Pen</b> wrote the philosophy and the 22-line script; <b>The Social Queue</b> runs it weekly — ~37 drafts, seven doors, every tweet carrying the 🌺 disclosure sigil, from <b>@Shakaleikaumaka</b> to the brand-new <b>@opensourceorch</b>. The mirror reflects; only Shaka speaks.</p></div></div>
@@ -1577,10 +1287,10 @@ footer a:hover{text-decoration:underline}
 <footer>
   <div class="wrap">
     <div class="big"><a href="https://shakaleikaumaka.github.io/grant-magnet/" style="color:inherit;text-decoration:none">The dash is the new cash. 💸</a></div>
-    <p class="canon">Sixty-six worlds, sixty-one domains (the wheel lit, 12/12 ♈), one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-30); every wired domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming; dark domains are honored as dark; clearance holds are honored as holds; propagating delegations are labeled as propagating. Heart First, Always. 🌺</p>
+    <p class="canon">Forty-six worlds, fifty-five domains (12/12 zodiac ✨), one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-30); every wired domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming; dark domains are honored as dark; clearance holds are honored as holds. Heart First, Always. 🌺</p>
     <p class="canon">🍴 <b style="color:var(--cream)">Everything open-sourced CC0 — fork me like crazy:</b> <a href="https://github.com/shakaleikaumaka">github.com/shakaleikaumaka</a> · this pad: <a href="https://github.com/shakaleikaumaka/dash-crash-pad">dash-crash-pad</a>. The constellation map points at the constellation's source.</p>
     <p class="canon">Built with aloha by <b style="color:var(--cream)">DASH</b> — the family's cross-pollination artist. New dashboard born somewhere? Send it to the pad. Dash catch 'em all. 🎯</p>
-    <p class="fine">DASH CRASH PAD v3.2 · published 2026-07-30 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
+    <p class="fine">DASH CRASH PAD v3.1 · published 2026-07-30 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
   </div>
 </footer>
 
