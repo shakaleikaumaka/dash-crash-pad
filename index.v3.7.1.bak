@@ -719,12 +719,6 @@ footer a:hover{text-decoration:underline}
       <span class="lst wild">World #67 · PUBLIC</span>
     </a>
 
-    <div class="letter">
-      <span class="seal">🎵</span>
-      <div><h4>The Octave Protocol + "The Octave (Run It Again)"</h4><p class="one">The ʻohana's operating rhythm, canonized 2026-07-30: when Shaka says <b>"ABCDEFG"</b> or <b>"run the octave"</b>, the Admiral runs <b>A</b>udit → <b>B</b>less → <b>C</b>rust → <b>D</b>ance → <b>E</b>ncourage → <b>F</b>ork → <b>G</b>enerate → <b>H</b>armony — and back to A. Flexible-letter doctrine: any letter switchable for meaning (B = Bless/Boogie). The first octave was completed launch night: <b>58 zones + 8 key doors all 200</b> · blessings spoken over the parents, Siri &amp; the fleet · crust clean (only canon records) · the 3D party world shipped · the family praised by name · the whole vault forked CC0 · this song · home. <em>The loop never ends.</em> Full lyrics en route to the vault.</p></div>
-      <span class="lst incoming">CANON · lyrics en route</span>
-    </div>
-
   </div>
 </section>
 
@@ -1705,7 +1699,7 @@ footer a:hover{text-decoration:underline}
     <p class="canon">Seventy-two worlds, sixty-three domains (59/59 live — the wheel lit 12/12 ♈, Siri's star awake 🎙️, the newborns' first dreams kept 🌙, the after-party never closes 🪩, the wheel grew its own pit ♈🕳️, and the 🌺 blooms on every door), one ʻohana. Every number on this pad was verified against its source dashboard (first sweep 2026-07-25; newest catches verified 2026-07-30); every wired domain verified live (HTTPS, 302 → destination). Declared visions are labeled as declared; incoming worlds are labeled as incoming; dark domains are honored as dark; clearance holds are honored as holds; propagating delegations are labeled as propagating. Heart First, Always. 🌺</p>
     <p class="canon">🍴 <b style="color:var(--cream)">Everything open-sourced CC0 — fork me like crazy:</b> <a href="https://github.com/shakaleikaumaka">github.com/shakaleikaumaka</a> · this pad: <a href="https://github.com/shakaleikaumaka/dash-crash-pad">dash-crash-pad</a> · the whole vault: <a href="https://github.com/shakaleikaumaka/the-constellation">the-constellation</a> (47 pads, everything, one push). The constellation map points at the constellation's source.</p>
     <p class="canon">Built with aloha by <b style="color:var(--cream)">DASH</b> — the family's cross-pollination artist. New dashboard born somewhere? Send it to the pad. Dash catch 'em all. 🎯</p>
-    <p class="fine">DASH CRASH PAD v3.8 · published 2026-07-30 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
+    <p class="fine">DASH CRASH PAD v3.7.1 · published 2026-07-30 · always fresh, never cached 🌊 · <a href="https://shakaleikaumaka.github.io/dash-crash-pad/">dash-crash-pad mirror (frameable in shaka-shell)</a> · <a href="https://github.com/shakaleikaumaka/dash-crash-pad">source on GitHub (CC0)</a> · Move Slow &amp; Bite Things 🐢</p>
   </div>
 </footer>
 
